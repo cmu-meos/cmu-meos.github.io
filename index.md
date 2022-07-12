@@ -14,7 +14,7 @@ Once we gather all the entries, we will review them and award each group a badge
 # The MEOS Tiers
 | Tier | Criteria  |
 | ------- | -------| 
-| ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-pt.png) | {% include platinum %} |
+| ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-pt.png) | <ul><li>3-5 single or multi-event outreach activities</li><li>Good description of the impact of the activities</li><li>Activities primarily targeted under-represented minority or at-risk groups</li><li>Some content creation and leadership (lots of volunteering)</li></ul> |
 | ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-gold-1.png) | {% include gold %} |
 | ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-silver-1.png) | {% include silver %} |
 | ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-bronze-1.png) | {% include bronze %} |
