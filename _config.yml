@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 show_downloads: False
 title: Mechanical Engineering Outreach Stars
+markdown: kramdown
