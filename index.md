@@ -31,3 +31,12 @@ Once we gather all the entries, we will review them and award each group a badge
 We will also be considering the number of hours and number of people that have participated in the outreach activity.
 
 We would like to congratulate Victoria Nguyen and Briana Chen on their designs for the MEOS logo! We combined their designs to create our logo.
+
+# Past Awardees
+<details>
+  <summary><h2>2021-2022 Awardees</h2></summary>
+    <img width="564" alt="Screen Shot 2022-07-12 at 2 02 15 PM" src="https://user-images.githubusercontent.com/6705753/178561767-7279105c-1b14-4acd-9ffb-f71fc266f4b8.png">
+</details>
+
+
+
