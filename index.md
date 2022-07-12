@@ -1,6 +1,6 @@
 ---
 title: Mechanical Engineering Outreach Stars
-description: <img style="margin-top: 50px;" src="https://user-images.githubusercontent.com/6705753/178507634-d0313bd5-4c10-4e07-ab91-84ebb9fa2605.png">
+description: <img src="https://user-images.githubusercontent.com/6705753/178507634-d0313bd5-4c10-4e07-ab91-84ebb9fa2605.png">
 ---
 
 # Do you reach for the stars?
