@@ -12,7 +12,7 @@ Fill out this form detailing each outreach activity that occurred between May 1,
 Once we gather all the entries, we will review them and award each group a badge based on our tiered system below. They will be able to display the badge on their website, and we will announce the winners to the MechE community. If you have any issues or questions, please email us at meche-outreach@andrew.cmu.edu.
 
 # The MEOS Tiers
-
+| Tier | Criteria  |
 | ------- | -------| 
 | ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-pt.png) | {% include platinum %} |
 | ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-gold-1.png) | {% include gold %} |
