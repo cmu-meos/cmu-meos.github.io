@@ -1,6 +1,6 @@
 ---
 title: Puppies Are Cute
-description: Chris McComb (<a href="uum209@psu.edu">uum209@psu.edu</a>)
+description: Chris McComb <img src="https://user-images.githubusercontent.com/6705753/178507634-d0313bd5-4c10-4e07-ab91-84ebb9fa2605.png">
 ---
 ![](https://www.letuspublish.com/wp-content/uploads/2017/04/Cute-little-puppy-sleeping-in-basket-wallpaper.jpg)
 _Puppies are very cute_ [1]
