@@ -24,7 +24,8 @@ Once we gather all the entries, we will review them and award each group a badge
 ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-silver-1.png)
 {% include silver %}
   
-## Bronze ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-bronze-1.png)
+## Bronze 
+![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-bronze-1.png)
 {% include bronze %}
 
 We will also be considering the number of hours and number of people that have participated in the outreach activity.
