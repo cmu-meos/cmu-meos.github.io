@@ -16,3 +16,9 @@ Once we gather all the entries, we will review them and award each group a badge
 | ------- | -------| 
 | ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-pt.png) | {% include platinum %} |
 | ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-gold-1.png) | {% include gold %} |
+| ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-silver-1.png) | {% include silver %} |
+| ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-bronze-1.png) | {% include bronze %} |
+
+We will also be considering the number of hours and number of people that have participated in the outreach activity.
+
+We would like to congratulate Victoria Nguyen and Briana Chen on their designs for the MEOS logo! We combined their designs to create our logo.
