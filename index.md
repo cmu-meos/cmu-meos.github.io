@@ -12,12 +12,20 @@ Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdIHSbRC6QrDZQijpl
 Once we gather all the entries, we will review them and award each group a badge based on our tiered system below. They will be able to display the badge on their website, and we will announce the winners to the MechE community. If you have any issues or questions, please email us at [meche-outreach@andrew.cmu.edu](mailto:meche-outreach@andrew.cmu.edu).
 
 # The MEOS Tiers
-| Tier | Criteria  |
-| ------- | -------| 
-| ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-pt.png) | {::nomarkdown}<ul><li>3-5 single or multi-event outreach activities</li><li>Good description of the impact of the activities</li><li>Activities primarily targeted under-represented minority or at-risk groups</li><li>Some content creation and leadership (lots of volunteering)</li></ul> |
-| ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-gold-1.png) | {::nomarkdown}{% include gold %} |
-| ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-silver-1.png) | {% include silver %} |
-| ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-bronze-1.png) | {% include bronze %} |
+## Platinum
+![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-pt.png)
+{% include platinum %}
+
+## Gold
+![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-gold-1.png)
+{% include gold %}
+  
+## Silver
+![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-silver-1.png)
+{% include silver %}
+  
+## Bronze ![image](https://ashleydalrymple.files.wordpress.com/2022/02/meos-bronze-1.png)
+{% include bronze %}
 
 We will also be considering the number of hours and number of people that have participated in the outreach activity.
 
