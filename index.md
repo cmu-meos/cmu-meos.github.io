@@ -1,51 +1,17 @@
 ---
-title: Puppies Are Cute
-description: Chris McComb <img src="https://user-images.githubusercontent.com/6705753/178507634-d0313bd5-4c10-4e07-ab91-84ebb9fa2605.png">
+title: Mechanical Engineering Outreach Stars
+description: <img src="https://user-images.githubusercontent.com/6705753/178507634-d0313bd5-4c10-4e07-ab91-84ebb9fa2605.png">
 ---
-![](https://www.letuspublish.com/wp-content/uploads/2017/04/Cute-little-puppy-sleeping-in-basket-wallpaper.jpg)
-_Puppies are very cute_ [1]
 
-# Why Are Puppies So Cute?
-__This first section is similar to the abstract for your report.__ Try to keep it short and to the point, but do make sure that you motivate the need for your project. To do so, follow the format shown in the [The Four Moves To Novelty](https://www.cmu.edu/gcc/handouts-and-resources/handouts/novelty-handout.pdf#:~:text=Establish%20Novelty%20With%20Four%20Rhetorical%20Moves%201%29%20Explain,4%29%20Fill%20that%20gap%20with%20the%20present%20research).
+# Do you reach for the stars?
+The Mechanical Engineering Outreach Subcommittee is launching the MEOS (Mechanical Engineering Outreach Stars) program! The MEOS program rewards and incentivizes individuals and student groups to participate in outreach activities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# How to Apply
+Fill out this form detailing each outreach activity that occurred between May 1, 2021 and Apr. 30, 2022. Please email us your letters of support: meche-outreach@andrew.cmu.edu. The deadline for submitting your entries is May 27, 2022.
 
-# We Used Y Algorithm To Assess Puppy Cuteness
-__A second section says a little bit about your methodology.__ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Once we gather all the entries, we will review them and award each group a badge based on our tiered system below. They will be able to display the badge on their website, and we will announce the winners to the MechE community. If you have any issues or questions, please email us at meche-outreach@andrew.cmu.edu.
 
-![](https://images7.memedroid.com/images/UPLOADED185/563b5bffa94d6.jpeg)
-_Anatomy of a dog_ [2]
+# The MEOS Tiers
 
-If helpful, you can include some example code:
-```Python
-good_canine = []
-for pupper in litter:
-    pupper.measure_smol()
-    pupper.give_treat()
-    good_canine.append(pupper)
-```
-[Here is a link to another page](./another_page) that is also part of your site.
-
-# We Learned That Puppies Are Cute Because They Are Smol
-__A third section talks about your results__. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-![](https://www.thelabradorsite.com/wp-content/uploads/2018/07/small-dog-breed-long.jpg)
-_Visualization of smolness_ [3]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-![](https://cdn.openupresources.org/uploads/pictures/7/7.8.C.17.Images.student.summary.01.png)
-_Smoller is correlated to cuter_ [4]
-
-# Takeaways
-__A final section summarizes big takeaways in a concise format__
-- Puppies are cute
-- Smoler = cuter
-- Future work should investigate how smol is too smol
-
-# References
-__Don't foget references!__
-1. https://www.letuspublish.com/wp-content/uploads/2017/04/Cute-little-puppy-sleeping-in-basket-wallpaper.jpg
-2. https://images7.memedroid.com/images/UPLOADED185/563b5bffa94d6.jpeg
-3. https://www.thelabradorsite.com/wp-content/uploads/2018/07/small-dog-breed-long.jpg
-4. https://cdn.openupresources.org/uploads/pictures/7/7.8.C.17.Images.student.summary.01.png
+| ------- | -------| 
+| ![image](https://user-images.githubusercontent.com/6705753/178508195-8c3e18c1-ffaf-451d-bc32-b9b15432f31e.png) | <ul><li>3-5 single or multi-event outreach activities</li><li>Good description of the impact of the activities</li><li>Activities primarily targeted under-represented minority or at-risk groups</li><li>Some content creation and leadership (lots of volunteering)</li></ul> |
