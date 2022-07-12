@@ -34,7 +34,7 @@ We would like to congratulate Victoria Nguyen and Briana Chen on their designs f
 
 # Past Awardees
 <details>
-  <summary><h2>2021-2022 Awardees</h2></summary>
+  <summary>2021-2022 Awardees</summary>
     <img width="564" alt="Screen Shot 2022-07-12 at 2 02 15 PM" src="https://user-images.githubusercontent.com/6705753/178561767-7279105c-1b14-4acd-9ffb-f71fc266f4b8.png">
 </details>
 
